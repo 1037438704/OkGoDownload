@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OkGoDownload</string>
+    <string name="simple_view_behavior">com.lzy.demo.ui.SimpleViewBehavior</string>
+    <string name="translate_up_down_behavior">com.lzy.demo.ui.TranslateUpDownBehavior</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
